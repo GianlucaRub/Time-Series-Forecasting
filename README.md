@@ -12,7 +12,7 @@ the performance at test time (0.03).
 ###                                    Frequency:
 We  attempted to extract information in the frequency domain from the signal in order to identify the
 dominant frequencies: this was done using Fast Fourier Transform.
-![](Deliverables\data_aug.png)
+![](https://github.com/GianlucaRub/Time-Series-Forecasting/blob/main/Deliverables/data_aug.png?raw=true)
 
 
 
@@ -113,7 +113,7 @@ timesteps at a time.
 ##SALIENT MOMENTS IN MODEL PROGRESSION
     RMSE as score
 
-![](Deliverables\final_table.png)
+![](https://github.com/GianlucaRub/Time-Series-Forecasting/blob/main/Deliverables/final_table.png?raw=true)
 
                                           
 
