@@ -1,3 +1,8 @@
+# Time-Series-Forecasting
+It is a network able to predict future samples of a multivariate time series.
+<br>
+Here there is the report of the project.
+
 #   DEEPressi group - Report
 ### Gianluca Ruberto, Tommaso Brumani, Riccardo Pazzi
 
